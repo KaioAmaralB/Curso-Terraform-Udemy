@@ -25,8 +25,4 @@ provider "aws" {
 
   profile = var.aws_profile
 
-  #Outra forma insegura de se conectar no provedor
-  # acess_key = "AKIAUMG6KZJAWMEGT3UF"
-
-  # secret_key = "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"
 }
